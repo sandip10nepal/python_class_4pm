@@ -1,0 +1,5 @@
+Sn,name,age,add,phone
+1,Sandip,18,Kadaghari,9765567051
+2,Surya,40,Gothatar,9862966751
+3,Sandesh,12,Kathmandu,98000000
+4,Gyanu,40,Kadaghari,98676808597
